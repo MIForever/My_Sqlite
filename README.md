@@ -3,23 +3,23 @@
 
 ## Task
 The task is to create the MySqliteRequest class and the command line input version it,
-so that user perform various actions on csv files.
+so that users perform various actions on CSV files.
 
 ## Description
-We used regular experssions to make the task easier and shorten the code. It also imporves code efficiency.
-This is an example for mini version of Sqlite to be example for users on Ruby.
+We used regular expressions to make the task easier and shorten the code. It also improves code efficiency.
+This is an example of a mini version of Sqlite to be an example for users on Ruby.
 
 ## Installation
 You just install it and write your own requests to the my_sqlite_request.rb file or
 type your command through my_sqlite_cli.rb script
 
 ## Usage
-Once you wrote your to the class requests type to the command line:
+Once you have written your to the class requests type to the command line:
 ```
 ruby my_sqlite_request.rb
 ```
 
-Or to use command line input version of it:
+Or to use the command line input version of it:
 ```
 ruby my_sqlite_cli.rb
 ```
